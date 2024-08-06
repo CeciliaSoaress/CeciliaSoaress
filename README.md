@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cecília</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm Cecília Soares, a 20-year-old student of Physical Education currently in my 4th semester. Alongside my studies, I am diving into the world of programming with my brother.</h3>
+<h1 align="center">Hi 👋, I'm Cecí</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm Cecília Soares, a 19-year-old student of Physical Education currently in my 4th semester. Alongside my studies, I am diving into the world of programming with my brother.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceciliasoaress&label=Profile%20views&color=0e75b6&style=flat" alt="ceciliasoaress" /> </p>
 
@@ -19,8 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ceciliasoaress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ceciliasoaress" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/cecília-carvalhx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/cecília-carvalhx/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ceciliacarvalhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceciliacarvalhx" height="30" width="40" /></a>
 <a href="https://instagram.com/ceciliasoaresll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ceciliasoaresll" height="30" width="40" /></a>
 </p>
 
