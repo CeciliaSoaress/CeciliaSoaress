@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ceci Mariane</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm Cecília Mariane, a 20-year-old student of Physical Education currently in my 4th semester. Alongside my studies, I am diving into the world of programming with my brother.</h3>
+<h1 align="center">Hi 👋, I'm Cecília</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm Cecília Soares, a 20-year-old student of Physical Education currently in my 4th semester. Alongside my studies, I am diving into the world of programming with my brother.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceciliasoaress&label=Profile%20views&color=0e75b6&style=flat" alt="ceciliasoaress" /> </p>
 
